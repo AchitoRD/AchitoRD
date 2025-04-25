@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96b06f6d-2ca8-4400-9d30-83ddd889f967)
+![image](https://github.com/user-attachments/assets/96b06f6d-2ca8-4400-9d30-83ddd889f967) - ![image](https://github.com/user-attachments/assets/0f586d1e-115e-4e9f-938c-87fea801e87b)
 
 # Alcaldia de Medellin
 
@@ -63,7 +63,7 @@ Que en cada rincón se diga:
 
 ![image](https://github.com/user-attachments/assets/0d899f17-10bd-4eaf-9e45-3b179f4eee30)
 
-![image](https://github.com/user-attachments/assets/0f586d1e-115e-4e9f-938c-87fea801e87b)
+
 
 ![image](https://github.com/user-attachments/assets/11a1b492-21a8-46f2-95fe-8bef1392dbfb)
 
