@@ -57,5 +57,6 @@ Que en cada rincón se diga:
 > “**Este es el liderazgo que estábamos esperando.**”
 
 ---
+![image](https://github.com/user-attachments/assets/96b06f6d-2ca8-4400-9d30-83ddd889f967)
 
 
