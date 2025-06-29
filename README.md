@@ -50,9 +50,9 @@ Hey! I'm **ACHITODEV**, un apasionado desarrollador Fullstack que construye herr
 
 ## 🌐 Let's Connect
 
-- 💬 Discord: `@AchitoDev`
+- 💬 Discord: `@achito_dev`
 - 🌐 Web: [proximamente...]
-- 📧 Email: `achitodev@correo.dev`
+- 📧 Email: `elachitofalso@hotmail.com`
 - 🐙 GitHub: [Here](https://github.com/achitodev)
 
 ---
