@@ -1,0 +1,46 @@
+name: 🐍 Generate GitHub Snake Game
+
+on:
+  # Ejecutar automáticamente todos los días a medianoche UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Permitir ejecución manual desde la interfaz de GitHub
+  workflow_dispatch:
+
+  # Ejecutar cuando haya un push a la rama main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    name: 🛠️ Generar Animación Snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 🧾 Paso 1: Clonar el repositorio
+      - name: 📥 Checkout del repositorio
+        uses: actions/checkout@v3
+
+      # 🐍 Paso 2: Generar las animaciones del Snake
+      - name: 🎞️ Generar animaciones de contribuciones
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🚀 Paso 3: Publicar archivos generados en la rama "output"
+      - name: 🚀 Deploy animaciones a rama output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "📦 Actualización automática de Snake [skip ci]"
