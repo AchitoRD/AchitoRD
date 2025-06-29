@@ -1,73 +1,62 @@
-![image](https://github.com/user-attachments/assets/96b06f6d-2ca8-4400-9d30-83ddd889f967)  
+<!-- Banner principal -->
+<img src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" style="width: 100%;" />
 
-
-![image](https://github.com/user-attachments/assets/0f586d1e-115e-4e9f-938c-87fea801e87b)
-
-
----
-
-# 🗓️ Alcaldía de Medellín — Candidatura 2025  
-## ✨ Partido: **Orden Divino**  
-
-> **Frase guía:**  
-> *“Donde reina el orden, florece la ciudad.”*
-
-> **Eslogan / Logo:**  
-> 🕊️ *Medellín Purificada – Justicia, Disciplina y Renovación.*
+<h1 align="center">👨‍💻 ACHITODEV</h1>
+<p align="center">
+  💥 Fullstack Developer · Tech Enthusiast · Linux Poweruser  
+</p>
 
 ---
 
-## 📜 Propuestas del Plan de Gobierno
+## ✨ Who am I?
 
-### 🔒 **Seguridad Sagrada**  
-Reforzar la presencia institucional en barrios vulnerables con enfoque preventivo, comunitario y disciplinario. Patrullas cívicas, guardianes del orden y recuperación de la confianza ciudadana.
+Hey! I'm **ACHITODEV**, un apasionado desarrollador Fullstack que construye herramientas, bots, sistemas avanzados para RolePlay y plataformas modernas. Amante de Linux 🐧, optimizador de rendimiento extremo 💻 y creador de sistemas automáticos 🔁.
 
-### 🎓 **Educación con Principios**  
-Escuelas con formación integral basada en disciplina, valores y excelencia académica. Programas extracurriculares orientados al liderazgo y la ética.
-
-### 🧹 **Limpieza Urbana y Espiritual**  
-Campañas de cultura ciudadana, arte en el espacio público, y jornadas de “purificación urbana” para transformar la ciudad física y simbólicamente.
-
-### 🧾 **Transparencia Total**  
-Auditorías públicas, control ciudadano digital y “exorcismo administrativo” para erradicar toda forma de corrupción. *¡Cada peso debe tener trazabilidad divina!*
-
-### 🗣️ **Participación Ciudadana Activa**  
-Cabildos abiertos mensuales, Consejos Vecinales de Vigilancia y plataformas digitales de denuncia ciudadana.
-
-### 💼 **Economía Ordenada**  
-Apoyo a emprendedores con sentido social, regulación digna del espacio público, incentivos al comercio local y reactivación del agro en los corregimientos.
+🔗 También trabajo en comunidades como Discord, creando bots, economías, dashboards y paneles policiales integrados.
 
 ---
 
-## 🧠 Gabinete de Gobierno  
+## 🔧 What I Do
 
-| Cargo                    | Nombre                        |
-|--------------------------|-------------------------------|
-| 👑 **Alcalde**            | Boris Morozov                 |
-| 🕊️ **Vicealcalde**        | Maclachlan Brenden            |
-| 🛡️ **Secretario de Gobierno** | Kevin Toro Zuluaga             |
-| 🚓 **Secretario de Seguridad** | Christian Cano                |
-| 💰 **Secretario de Hacienda**  | Alfonzo Díaz                  |
-| 🎭 **Secretario de Cultura**   | Yeudy Fortuna                 |
-| 🚦 **Secretario de Movilidad** | *(Por confirmar)*             |
-| 🏥 **Secretario de Salud**     | *(Por confirmar)*             |
+- 🧠 Desarrollo completo web (Frontend + Backend)
+- 🛠️ Sistemas de bots personalizados para Discord (ERP, RP, economía, roles...)
+- 🌐 Automatización de servidores, verificación, formularios y dashboards web
+- 🖤 Amo trabajar con tecnologías modernas y temas oscuros
 
 ---
 
-## 🛡️ ¡Supremacía Divina para Medellín!  
-Haz parte del movimiento que cambiará la ciudad con justicia, orden y propósito.  
-Que en cada rincón se diga:  
-> “**Este es el liderazgo que estábamos esperando.**”
+## 🧰 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
 
 ---
 
+## 🌐 Let's Connect
 
+- 💬 Discord: `@AchitoDev`
+- 🌐 Web: [proximamente...]
+- 📧 Email: `achitodev@correo.dev`
+- 🐙 GitHub: [Here](https://github.com/achitodev)
 
+---
 
-
-
-![image](https://github.com/user-attachments/assets/11a1b492-21a8-46f2-95fe-8bef1392dbfb)
-
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+</p>
