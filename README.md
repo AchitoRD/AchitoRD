@@ -1,59 +1,128 @@
-<!-- Banner principal -->
-<img src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" style="width: 100%;" />
-
-<h1 align="center">👨‍💻 ACHITODEV</h1>
+<!-- Banner animado superior -->
 <p align="center">
-  💥 Fullstack Developer · Tech Enthusiast · Linux Poweruser  
+  <img src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" style="width:100%;" />
+</p>
+
+<h1 align="center">ʿ ♡ ﹒ Achitodev ⏇</h1>
+<p align="center">
+  Fullstack Developer ✦ Linux Poweruser ✦ Creator of Digital Chaos
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,ts,js,html,css,tailwind,react,nextjs,mongodb,mysql,php,bash&perline=8" />
 </p>
 
 ---
 
-## ✨ Who am I?
+## ⏇  Who Am I?
 
-Hey! I'm **ACHITODEV**, un apasionado desarrollador Fullstack que construye herramientas, bots, sistemas avanzados para RolePlay y plataformas modernas. Amante de Linux 🐧, optimizador de rendimiento extremo 💻 y creador de sistemas automáticos 🔁.
+Hey! Soy **ACHITODEV**, desarrollador fullstack con alma *open-source*, hacker de terminal, y creador de sistemas RP avanzados.  
+🧠 Automatizo, optimizo y diseño arquitecturas para servidores RP, paneles policiales, bots de Discord y más.
 
-🔗 También trabajo en comunidades como Discord, creando bots, economías, dashboards y paneles policiales integrados.
-
----
-
-## 🔧 What I Do
-
-- 🧠 Desarrollo completo web (Frontend + Backend)
-- 🛠️ Sistemas de bots personalizados para Discord (ERP, RP, economía, roles...)
-- 🌐 Automatización de servidores, verificación, formularios y dashboards web
-- 🖤 Amo trabajar con tecnologías modernas y temas oscuros
+- ⚙️ Aficionado a los sistemas complejos y la eficiencia extrema  
+- 🧩 Amante de los sistemas Unix, y enemigo de la sobrecarga innecesaria  
+- 🌙 Fanático de las interfaces oscuras, dashboards oscuros y *dark vibes*  
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What I Build
+
+🛠️ **Sistemas Fullstack & Automatización**
+
+- RP Systems (economía, identidad, arrestos, verificación)
+- Bots personalizados de Discord (ERP, facciones, LSPD, EMS, Gangs)
+- Dashboards oscuros & Paneles policiales
+- Formularios, sanciones, manejo de personal
+- Paneles de control web full responsive
+
+---
+
+## 🧰 Stack de Guerra
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+
+![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 📂 Proyectos Destacados
+
+> Creaciones poderosas para servidores RP, moderación y automatización de comunidades:
+
+---
+
+### 🗽 New York RP
+
+- **💼 Bot Central RP**  
+  `JS · Node.js · Discord.js`  
+  Sistema de cédulas, economía, identidades, vehículos, inventario.
+
+- **👮 Staff Tools Bot**  
+  Tickets, sistema de sanciones, gestión interna del equipo administrativo.
+
+- **🚓 Fuerza Pública RP**  
+  Bot para LSPD con arrestos, fichas, placas, reporte de unidades, integración total con sistemas legales RP.
+
+- **🧯 Bomberos & EMS**  
+  Bot operativo para servicios de emergencia. Registro de incidentes, despachos, unidades, reportes médicos.
+
+---
+
+### 🇪🇸 Spain RP
+
+- **🛡️ Bot de Seguridad**  
+  Logs avanzados, sistema antiraids, detección de anomalías y sistema de alertas.
+
+- **🕸️ Web Dash v9.0.2.3.4**  
+  `Vite + React · Backend Node.js`  
+  Login con Discord OAuth2, panel de arrestos, fichas criminales, gestión de personajes, completamente responsive y dark.
+
+- **🎭 RP Bot General**  
+  Inventarios, verificación de identidad, comandos legales, economía RP.
+
+---
+
+### 🌵 Caborca RP
+
+- **💀 Roleplay Bot Caborca**  
+  Gestión total RP: licencias, personajes, facciones, sistema de sanciones y verificación profunda.
+
+---
+
+### 🌐 Proyectos Generales
+
+- **🎵 Music Bot Universal**  
+  Soporte para YouTube, Spotify, filtros, comandos rápidos, autoplay, integración con Discord.
+
+- **🦈 NewShark Bot (Telegram)**  
+  Bot de moderación para canales Telegram: anti-spam, bloqueo de links, sistema de advertencias, bans automatizados.
+
+---
+
+## 🌐 Conecta Conmigo
 
 - 💬 Discord: `@achito_dev`
-- 🌐 Web: [proximamente...]
+- 🐙 GitHub: [github.com/achitodev](https://github.com/achitodev)
 - 📧 Email: `elachitofalso@hotmail.com`
-- 🐙 GitHub: [Here](https://github.com/achitodev)
+- 🖥️ Web: _[Próximamente...]_
 
 ---
 
