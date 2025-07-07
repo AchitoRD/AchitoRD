@@ -20,7 +20,7 @@
 
 ---
 
-## 🖤 ¿Quién soy? Adentrándonos en la Oscuridad...
+## 🖤 ¿Quién soy?....
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.GIF/l0Nh5c3327p8aXvDG.gif" width="150" alt="Hacker GIF">
