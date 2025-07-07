@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/achitodev">
-    <img src="https://i.pinimg.com/736x/3b/3b/2f/3b3b2f805dd39573d895b9832378ecda.jpg" alt="Banner Animado Achitodev" style="width:100%; max-width:800px; border-radius:10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
+    <img src="https://i.pinimg.com/736x/11/3a/f3/113af38638a6800ad5600f498c407abe.jpg" alt="Banner Animado Achitodev" style="width:100%; max-width:800px; border-radius:10px; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ## 🖤 ¿Quién soy?....
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.GIF/l0Nh5c3327p8aXvDG.gif" width="150" alt="Hacker GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt4Y2prc29obzhkbXN2cThoMTRhZ3ZocWdocHg4emtibmt5amV5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif" width="150" alt="Hacker GIF">
 </p>
 
 ¡Saludos, alma digital! Soy **ACHITODEV**, un **Fullstack Developer** con el corazón latiendo al ritmo del `open-source`, un auténtico **hacker de terminal** y el artífice detrás de complejos **sistemas RP** que dan vida a mundos virtuales.
@@ -39,7 +39,7 @@
 ## ⚡️ Mi Arsenal Creativo: Forjando Realidades Digitales
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.GIF/3ornk3BvYxR41n1iJg.gif" width="150" alt="Coding GIF">
+  <img src="https://i.pinimg.com/736x/fa/66/cd/fa66cd1ebc75249e726face969692114.jpg" width="150" alt="Coding GIF">
 </p>
 
 🛠️ **Sistemas Fullstack & Automatización de Vanguardia**
@@ -83,7 +83,8 @@ Convierto ideas audaces en soluciones funcionales, potentes y visualmente impact
 ## 🌌 Proyectos Destacados: Donde la Innovación Cobra Vida
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.GIF/l0HlFKp3m9JjW.gif" width="150" alt="Projects GIF">
+  <img src="![Uploading image.png…]()
+" width="150" alt="Projects GIF">
 </p>
 
 > **Mis creaciones son el motor de comunidades inmersivas:** herramientas poderosas para servidores RP, sistemas de moderación infalibles y automatización que transforman la gestión de comunidades.
