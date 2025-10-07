@@ -129,7 +129,7 @@ Convierto ideas audaces en soluciones funcionales, potentes y visualmente impact
 
 ---
 
-### 🌐 Proyectos Generales: Más Allá de las Fronteras del RP
+### 🌐 Proyectos Generales
 
 * **🎵 Music Bot Universal (Multiplataforma):**
     Tu DJ personal: soporte robusto para YouTube y Spotify, filtros de audio avanzados, comandos rápidos, `autoplay` inteligente e integración fluida con Discord.
