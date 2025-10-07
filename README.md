@@ -150,7 +150,7 @@ Convierto ideas audaces en soluciones funcionales, potentes y visualmente impact
 * 💬 **Discord:** `@achito_dev` (Respuesta más rápida)
 * 🐙 **GitHub:** [github.com/achitodev](https://github.com/achitodev) (Explora mi código)
 * 📧 **Email:** `elachitofalso@hotmail.com` (Para colaboraciones y consultas)
-* 🖥️ **Web:** _[achitodev.com - Próximamente...]_ (Mi portal, en construcción)
+* 🖥️ **Web:** https://achitodev-web-pedidos.vercel.app/
 
 ---
 
