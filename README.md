@@ -9,29 +9,30 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-cyberpunk?style=flat-square&color=8A2BE2&logo=react&logoColor=white" alt="Fullstack Developer">
-  <img src="https://img.shields.io/badge/Linux%20Poweruser-neon?style=flat-square&color=00FFFF&logo=linux&logoColor=white" alt="Linux Poweruser">
-  <img src="https://img.shields.io/badge/Creator%20of%20Digital%20Chaos-glitch?style=flat-square&color=FF1493&logo=matrix&logoColor=white" alt="Creator of Digital Chaos">
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-cyberpunk?style=flat-square&color=8A2BE2&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Poweruser-neon?style=flat-square&color=00FFFF&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Creator%20of%20Digital%20Chaos-glitch?style=flat-square&color=FF1493&logo=matrix&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,ts,js,html,css,tailwind,react,nextjs,mongodb,mysql,php,bash&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,ts,js,html,css,tailwind,react,nextjs,mongodb,mysql,php,bash&perline=8&theme=dark" />
 </p>
 
 ---
 
 ## Quién soy
 
-Programador fullstack metido en sistemas RP, bots de Discord y paneles web.  
-Más backend que frontend, pero le meto a todo. Linux diario, cero cosas inútiles.
+Programador fullstack, más metido en backend pero le doy a todo.  
+Hago sistemas de RolePlay, bots de Discord y paneles web pa servidores.
 
-No vendo humo, hago sistemas que no se caen.
+Linux diario, nada de cosas innecesarias, todo simple y que funcione.  
+Si el sistema se cae, no sirve, así de fácil.
 
 ---
 
 ## Proyectos Pagados
 
-- **Bo | Colombia RP**
+- **Bo | Colombia RolePlay**
 - **Miamia Roleplay Spanish**
 - **New York Roleplay Spanish**
 - **DIAN Bot**
@@ -41,23 +42,16 @@ No vendo humo, hago sistemas que no se caen.
 
 ## Proyectos Propios
 
-- **Mexico Nuevo Laredo RP**
+- **Mexico Nuevo Laredo RolePlay**
 
 ---
 
 ## Qué hago normalmente
 
-- Bots de Discord (economías, facciones, policía, staff)
-- Paneles web con login Discord
-- Sistemas de registros (INPEC, policía, empresas RP)
-- Automatización con Node.js
-
----
-
-## Stack
-
-HTML · CSS · JavaScript · TypeScript · Node.js · React · Next.js · Tailwind  
-MongoDB · MySQL · PHP · Bash · Linux
+- Bots de Discord (economías, policía, staff, facciones)
+- Paneles web con login por Discord
+- Sistemas de registros (INPEC, policía, empresas)
+- Automatizaciones con Node.js
 
 ---
 
