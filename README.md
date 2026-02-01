@@ -50,9 +50,8 @@ Si el sistema se cae, no sirve, así de fácil.
 
 - Bots de Discord (economías, policía, staff, facciones)
 - Paneles web con login por Discord
-- Sistemas de registros (INPEC, policía, empresas)
-- Automatizaciones con Node.js
-
+- Sistemas de registros (Policía, empresas, Staff y mas)
+  
 ---
 
 ## Contacto
