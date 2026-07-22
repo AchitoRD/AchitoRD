@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/11/3a/f3/113af38638a6800ad5600f498c407abe.jpg" alt="Banner" style="width:100%; max-width:800px; border-radius:10px;" />
+  <img src="https://cdn.discordapp.com/avatars/609151596408078341/76563ad2f4b5b6e821ba1e324f9eba37.webp?size=512" alt="Achitodev" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-Programador fullstack, backend es lo mio. Bots de Discord, paneles web, sistemas de RolePlay. Linux diario, nada de vueltas.
+Creando sistemas modernos con arquitectura limpia.
 
 ---
 
