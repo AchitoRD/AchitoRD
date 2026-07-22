@@ -17,16 +17,31 @@
 
 ---
 
+Programador fullstack, backend es lo mio. Bots de Discord, paneles web, sistemas de RolePlay. Linux diario, nada de vueltas.
+
+---
+
 ## Projects
 
-| Project | Type |
+| Project | Link |
 |---|---|
-| Mexico Nuevo Laredo RolePlay | Own |
-| Bo \| Colombia RolePlay | Paid |
-| Miamia Roleplay Spanish | Paid |
-| New York Roleplay Spanish | Paid |
-| DIAN Bot | Paid |
-| INPEC Bot | Paid |
+| Pereira Roleplay | [pereira-roleplay.xyz](https://pereira-roleplay.xyz/) |
+| Bo Colombia | [bo-colombia.xyz](https://bo-colombia.xyz/) |
+| Ca Colombia | [ca-colombia.vercel.app](https://ca-colombia.vercel.app/) |
+| Hyperion | [hyperion-beryl.vercel.app](https://hyperion-beryl.vercel.app/blog) |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achitodev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achitodev&theme=radical&hide_border=true" height="150" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achitodev&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="languages" />
+</p>
 
 ---
 
